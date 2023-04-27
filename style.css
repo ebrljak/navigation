@@ -1,0 +1,38 @@
+main {
+    width: 250px;
+    margin: auto;
+    background-color: wheat;
+    padding: 20px;
+    border-radius: 7px;
+}
+
+.hide-menu {
+    display: none;
+}
+
+.show-menu {
+    display: block;
+}
+
+ul {
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+
+h2 {
+    margin-left: 65px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.menulink {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
